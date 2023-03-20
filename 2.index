@@ -1,0 +1,28 @@
+   <div class="bg-cyan-500 text-xs">
+    
+          <div class="container mx-auto">
+            <div class="flex justify-between font-bold text-white ">
+              <div class="flex">
+                <div class="py-2 px-3 hover:cursor-pointer hover:text-orange-600">Trang chủ</div>
+                <div class="py-2 px-3 hover:cursor-pointer hover:text-orange-600">Giới thiệu</div>
+                <div class="py-2 px-3 hover:cursor-pointer hover:text-orange-600">Điều khoản thỏa thuận</div>
+                <div class="py-2 px-3 hover:cursor-pointer hover:text-orange-600">Chính sách bảo mật</div>
+                <div class="py-2 px-3 hover:cursor-pointer hover:text-orange-600">Liên hệ</div>
+                <div class="py-2 px-3 hover:cursor-pointer hover:text-orange-600">Sơ đồ trang</div>
+              </div>
+              <div class="py-2 px-3  hover:cursor-pointer hover:text-orange-600">Email nội bộ</div>
+            </div>
+        </div>
+        </div>
+        <div class="bg-cyan-500">
+          <div class="container mx-auto text-xs">  
+            <div>
+                <div class="font-bold text-white text-xl">QUỸ TÍN DỤNG NHÂN DÂN XÃ LIÊN THÀNH - GIÁ TRỊ MỚI </div>
+            </div>
+            <div class="mt2">
+                <span class="font-bold">Trụ sở: </span>Cầu Thông - xã Liên Thành - Yên Thành - Nghệ An
+            </div>
+            <div>Điện thoại: 097.1989.288</div>
+        
+          </div>
+        </div>
